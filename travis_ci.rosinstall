@@ -1,0 +1,1 @@
+- git: {local-name: pandora_ros_pkgs, uri: 'https://github.com/pandora-auth-ros-pkg/pandora_ros_pkgs.git', version: hydro-devel}
