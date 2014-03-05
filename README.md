@@ -19,3 +19,5 @@ wstool update
 ```
 
 _NOTE: If you don't have `wstool` installed, run `sudo apt-get install python-wstool`._
+
+**More info [here](https://github.com/pandora-auth-ros-pkg/pandora_docs/wiki/Setup%20Packages).**
