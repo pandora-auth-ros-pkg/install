@@ -1,0 +1,6 @@
+- git: {local-name: pandora_fsm, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_fsm.git', version: hydro-devel}
+- git: {local-name: pandora_data_fusion, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_data_fusion.git', version: hydro-devel}
+- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: hydro-devel}
+- git: {local-name: pandora_control, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_control.git', version: hydro-devel}
+- git: {local-name: pandora_navigation, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_navigation.git', version: hydro-devel}
+- git: {local-name: pandora_rqt_gui, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_rqt_gui.git', version: hydro-devel}
