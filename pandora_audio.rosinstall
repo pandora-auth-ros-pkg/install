@@ -1,0 +1,2 @@
+- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: hydro-devel}
+- git: {local-name: pandora_audio, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_audio.git', version: hydro-devel}
