@@ -2,4 +2,3 @@
 - git: {local-name: pandora_vision, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_vision.git', version: hydro-devel}
 - git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: hydro-devel}
 - git: {local-name: pandora_hardware_interface, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_hardware_interface.git', version: hydro-devel}
-- git: {local-name: pandora_testing, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_testing.git', version: hydro-devel}
