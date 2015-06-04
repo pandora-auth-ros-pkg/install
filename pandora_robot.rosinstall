@@ -12,4 +12,3 @@
 - git: {local-name: pandora_launchers, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_launchers.git', version: hydro-devel}
 - git: {local-name: open_tld, uri: 'git@github.com:pandora-auth-ros-pkg/open_tld.git', version: hydro-devel}
 - git: {local-name: pandora_audio, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_audio.git', version: hydro-devel}
-- git: {local-name: pandora_rqt_gui, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_rqt_gui.git', version: hydro-devel}
