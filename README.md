@@ -14,7 +14,7 @@ cd pandora_ws/src
 Use `wstool` to fetch all repos:
 ```
 wstool init .
-wstool merge https://raw.github.com/pandora-auth-ros-pkg/install/hydro-devel/pandora_all.rosinstall
+wstool merge https://raw.github.com/pandora-auth-ros-pkg/install/indigo-devel/pandora_all.rosinstall
 wstool update
 ```
 

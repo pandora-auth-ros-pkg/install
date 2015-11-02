@@ -1,6 +1,6 @@
-- git: {local-name: pandora_data_fusion, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_data_fusion.git', version: hydro-devel}
-- git: {local-name: pandora_vision, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_vision.git', version: hydro-devel}
-- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: hydro-devel}
-- git: {local-name: pandora_hardware_interface, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_hardware_interface.git', version: hydro-devel}
-- git: {local-name: open_tld, uri: 'git@github.com:pandora-auth-ros-pkg/open_tld.git', version: hydro-devel}
+- git: {local-name: pandora_data_fusion, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_data_fusion.git', version: indigo-devel}
+- git: {local-name: pandora_vision, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_vision.git', version: indigo-devel}
+- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: indigo-devel}
+- git: {local-name: pandora_hardware_interface, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_hardware_interface.git', version: indigo-devel}
+- git: {local-name: open_tld, uri: 'git@github.com:pandora-auth-ros-pkg/open_tld.git', version: indigo-devel}
 

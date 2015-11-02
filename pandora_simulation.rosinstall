@@ -1,6 +1,6 @@
-- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: hydro-devel}
-- git: {local-name: pandora_control, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_control.git', version: hydro-devel}
-- git: {local-name: pandora_hardware_interface, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_hardware_interface.git', version: hydro-devel}
-- git: {local-name: pandora_models, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_models.git', version: hydro-devel}
-- git: {local-name: pandora_gazebo, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_gazebo.git', version: hydro-devel}
-- git: {local-name: pandora_kobuki, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_kobuki.git', version: hydro-devel}
+- git: {local-name: pandora_common, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_common.git', version: indigo-devel}
+- git: {local-name: pandora_control, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_control.git', version: indigo-devel}
+- git: {local-name: pandora_hardware_interface, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_hardware_interface.git', version: indigo-devel}
+- git: {local-name: pandora_models, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_models.git', version: indigo-devel}
+- git: {local-name: pandora_gazebo, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_gazebo.git', version: indigo-devel}
+- git: {local-name: pandora_kobuki, uri: 'git@github.com:pandora-auth-ros-pkg/pandora_kobuki.git', version: indigo-devel}
